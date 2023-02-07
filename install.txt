@@ -1,0 +1,8 @@
+XP8C9QZMS2PC1T
+Microsoft.VisualStudioCode
+CoreyButler.NVMforWindows
+Git.Git
+GitHub.GitHubDesktop
+Figma.Figma
+Cloudflare.Warp
+Cloudflare.cloudflared
